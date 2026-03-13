@@ -261,7 +261,7 @@ AROMI adapts the plan:
 
 # 👨‍💻 Author
 
-Rohan Gupta
+Rachit Kushwaha
 
 GitHub:
-https://github.com/Rohan-1810
+https://github.com/rachit-890
