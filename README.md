@@ -257,6 +257,7 @@ AROMI adapts the plan:
 * Mobile app version
 * Smart wearable integration
 
+
 ---
 
 # 👨‍💻 Author
