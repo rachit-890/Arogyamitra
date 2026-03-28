@@ -1,5 +1,5 @@
 # 🧘‍♂️ ArogyaMitra – AI Fitness & Wellness Platform
-
+.
 ArogyaMitra is an **AI-powered fitness and wellness platform** that provides personalized workout routines, nutrition guidance, and real-time AI coaching to help users maintain a healthy lifestyle.
 
 The system analyzes user information such as fitness goals, lifestyle preferences, medical conditions, and available time to generate customized plans.
